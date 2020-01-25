@@ -1,3 +1,3 @@
 # 20171cse
-welcome to presidency university
+welcome to university
 6cse7
